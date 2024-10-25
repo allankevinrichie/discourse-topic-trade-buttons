@@ -1,0 +1,19 @@
+zh_CN:
+  js:
+    topic_trading:
+      enable_sold_button: 启用 '售罄' 按钮
+      enable_purchased_button: 启用 '已购买' 按钮
+      enable_exchanged_button: 启用 '已交换' 按钮
+      enable_cancelled_button: 启用 '已取消' 按钮
+      sold: 售罄
+      purchased: 已购买
+      exchanged: 已交换
+      cancelled: 已取消
+      error_while_marked_as_sold: 标记主题为 '售罄' 时发生错误
+      error_while_marked_as_purchased: 标记主题为 '已购买' 时发生错误
+      error_while_marked_as_exchanged: 标记主题为 '已交换' 时发生错误
+      error_while_marked_as_cancelled: 标记主题为 '已取消' 时发生错误
+      mark_as_sold_confirm: 是否确认将主题标记为 '售罄' ?
+      mark_as_purchased_confirm: 是否确认将主题标记为 '已购买' ?
+      mark_as_exchanged_confirm: 是否确认将主题标记为 '已交换' ?
+      mark_as_cancelled_confirm: 是否确认将主题标记为 '已取消' ?
